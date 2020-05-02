@@ -10,3 +10,4 @@ C:\Users\BrianMcLaughlin\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netc
 C:\Users\BrianMcLaughlin\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
 C:\Users\BrianMcLaughlin\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
 C:\Users\BrianMcLaughlin\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
+C:\Users\BrianMcLaughlin\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
