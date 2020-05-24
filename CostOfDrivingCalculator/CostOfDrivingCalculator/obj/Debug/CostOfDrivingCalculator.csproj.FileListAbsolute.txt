@@ -1,0 +1,10 @@
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\bin\Debug\CostOfDrivingCalculator.exe.config
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\bin\Debug\CostOfDrivingCalculator.exe
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\bin\Debug\CostOfDrivingCalculator.pdb
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.csprojAssemblyReference.cache
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.Properties.Resources.resources
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.csproj.GenerateResource.cache
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.exe
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.pdb
+C:\Users\BrianMcLaughlin\source\repos\CostOfDrivingCalculator\CostOfDrivingCalculator\obj\Debug\CostOfDrivingCalculator.CostOfDrivingForm.resources
